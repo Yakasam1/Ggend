@@ -1,6 +1,6 @@
 # Dups online
 # By Darvingl
-# V0.1.0
+# V0.6.0
 import os
 import socket
 os.system('cls||clear')

@@ -9,6 +9,6 @@
 ###### $ ```pkg update && pkg upgrade```
 ###### $ ```apt install git -y```
 ###### $ ```apt install python -y```
-###### $ ```git clone https://github.com/DARVINGL/GgendSo2```
+###### $ ```git clone https://github.com/DARVINGL/Ggend```
 ###### $ ```cd Ggend```
 ###### $ ```python infinity-online.py```
